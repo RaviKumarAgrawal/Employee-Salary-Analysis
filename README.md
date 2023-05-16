@@ -22,26 +22,26 @@
 
 ## <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif height=48 width=48> Results/Insights:
 
- # Identify and list the top 10 most in-demand jobs.
+ ### Identify and list the top 10 most in-demand jobs.
 <p align="center"><a><img src=https://github.com/RaviKumarAgrawal/Employee-Salary-Analysis/assets/128930068/eaf6e8d2-dee3-470a-9898-01b4a6896d4b
  height=400 width=1000></a></p>
  
-# The top 10 average base pay for different job titles was determined and analyzed. The results show the job titles with the highest average base pay, which can provide valuable insights into the compensation trends for various positions.
+### The top 10 average base pay for different job titles was determined and analyzed. The results show the job titles with the highest average base pay, which can provide valuable insights into the compensation trends for various positions.
 
 <p align="center"><a><img src=https://github.com/RaviKumarAgrawal/Employee-Salary-Analysis/assets/128930068/3dec8132-d43c-4766-9332-2eca32715794
  height=400 width=1000></a></p>
  
- # Total benefits provided by the company in different years.
+ ### Total benefits provided by the company in different years.
 
 <p align="center"><a><img src=https://github.com/RaviKumarAgrawal/Employee-Salary-Analysis/assets/128930068/50e496d6-9669-4eea-951c-e6b4089ddfcf
  height=400 width=1000></a></p>
  
- # TOTAL OVERTIME PAY BY THE COMPANY IN DIFFERENT YEARS
+ ### TOTAL OVERTIME PAY BY THE COMPANY IN DIFFERENT YEARS
  
 <p align="center"><a><img src=https://github.com/RaviKumarAgrawal/Employee-Salary-Analysis/assets/128930068/f96936cb-c879-4767-bf39-600b1da8b485
  height=400 width=1000></a></p>
  
- # TOP 10 EMPLOYEE WHO ARE GEETING MORE BASE SALARY COMPARE TO ORTHERS EMPLOYEE
+ ### TOP 10 EMPLOYEE WHO ARE GEETING MORE BASE SALARY COMPARE TO ORTHERS EMPLOYEE
  
 <p align="center"><a><img src=https://github.com/RaviKumarAgrawal/Employee-Salary-Analysis/assets/128930068/2ade9461-e652-4236-9e29-31061e57a777
  height=400 width=1000></a></p>
